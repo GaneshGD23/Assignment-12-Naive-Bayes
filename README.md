@@ -11,5 +11,9 @@
 
 
 5.Preparing the naive Bayes model
+
+
       1) Multinominal NaiveBayes
+      
       2) Gaussian Naive Bayes
+      
