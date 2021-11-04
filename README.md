@@ -7,7 +7,7 @@
 3.Extracting independent and dependent variable
 
 
-4.Training the model on trian data
+4.Training the model on train data
 
 
 5.Preparing the naive Bayes model
